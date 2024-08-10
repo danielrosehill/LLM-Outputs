@@ -1,6 +1,8 @@
 # Helpful GPT Outputs
 
-This is a "first entry" style repository for my GPT work storing unorganised or loosely organised outputs from various GPTs.
+This repository contains some ChatGPT outputs grouped by folder.
+
+Most of the prompts are **unedited** GPT output. 
 
  ## Author
  

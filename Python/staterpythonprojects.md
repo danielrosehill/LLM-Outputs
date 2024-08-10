@@ -1,4 +1,3 @@
-```markdown
 # 50 Beginner-Friendly Python Projects
 
 ## 1. Simple Calculator
@@ -150,4 +149,3 @@
 
 ## 50. Recipe App
 - **Libraries:** `tkinter` (GUI), `sqlite3` (database)
-```
