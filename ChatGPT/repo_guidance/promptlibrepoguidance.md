@@ -4,7 +4,7 @@ ChatGPT's self-guidance on how to share an effective prompt library repository o
 
 ## Prompting Details
 
-- Date: 
+- Date: 11-08-24
 - Model:
 - Platform:
 

@@ -4,7 +4,7 @@ A GPT output providing GPT's guidance on when to develop custom GPTs vs when to 
 
 ## Prompting Details
 
-- Date: 
+- Date: 11-08-24
 - Model:
 - Platform:
 
