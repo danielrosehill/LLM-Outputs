@@ -1,5 +1,7 @@
 # Helpful GPT Outputs
 
+![Sloth in gallery looking at prompts](/images/banner.webp)
+
 This repository contains some ChatGPT outputs grouped by folder.
 
 Most of the prompts are **unedited** GPT output. 
