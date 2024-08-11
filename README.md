@@ -1,10 +1,14 @@
-# Helpful GPT Outputs
+# My GPT Output Library
 
 ![Sloth in gallery looking at prompts](/images/banner.webp)
 
 This repository contains some ChatGPT outputs grouped by folder.
 
-Most of the prompts are **unedited** GPT output. 
+## Disclaimer
+
+Most of the prompts are **unedited** GPT output:
+
+- While they're often a very good first output and often provide very useful information, consider fact-checking claims (etc)
 
  ## Author
  
